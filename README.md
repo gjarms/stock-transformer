@@ -1,4 +1,4 @@
-#A minimal transformer-based classifier built in PyTorch for intraday stock price movement prediction.
+## A minimal transformer-based classifier built in PyTorch for intraday stock price movement prediction.
 
 ## 🧠 Model Purpose
 Predict if the stock price will go **Up**, **Down**, or remain **Neutral** over the next N minutes using past OHLCV data.
